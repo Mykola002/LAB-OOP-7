@@ -5,9 +5,9 @@ import java.util.Arrays;
 public class SortingListTask {
     public static void main(String[] args) {
         Student[] students = {
-                new Student("Олег Сидоренко", "KI-22", new int[]{95, 92}),
-                new Student("Іван Петренко", "KI-21", new int[]{85, 90}),
-                new Student("Марія Коваль", "KI-21", new int[]{75, 80})
+                new Student("Олег Сидоренко", "АІ-222", new int[]{95, 92}),
+                new Student("Іван Петренко", "АI-223", new int[]{85, 90}),
+                new Student("Марія Коваль", "АI-223", new int[]{75, 80})
         };
 
         System.out.println("Додаткове завдання (SortingList):");
